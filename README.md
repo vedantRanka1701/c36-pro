@@ -1,1 +1,2 @@
-# c36-pro
+# Virtual-Pet-3
+c36 project
